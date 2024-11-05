@@ -27,13 +27,6 @@ def look_up_item(search_query):
 
 def execute_refund(item_id, reason="not provided"):
     
-    
-    
-    
-    
-    
-    
-    
     print("Summary:", item_id, reason) # lazy summary
     return "success"
 
